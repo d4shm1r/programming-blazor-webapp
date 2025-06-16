@@ -33,6 +33,4 @@ At the end of the tutorial in **VS Code** in Extensions tab make sure you have t
 
 ![Extensions VS Code](https://github.com/d4shm1r/programming-blazor-webapp/blob/ae4d293149deae6ac1f2285c69809d3e8eb4653e/images/ExtensionsVSCode.png)
 
-> By doing everything perfectly and verifying that you have installed the extensions you
->
-> can continue to the next material [Day 2 Creating a basic blazor Project](https://github.com/d4shm1r/programming-blazor-webapp/Weel%201/Day%202/Creating a basic blazor Project.md)
+> By doing everything perfectly and verifying that you have installed the extensions you can continue to the next material [Day 2 Creating a basic blazor Project](https://github.com/d4shm1r/programming-blazor-webapp/blob/main/Week%201/Day%202%20Creating%20a%20basic%20blazor%20Project.md)
