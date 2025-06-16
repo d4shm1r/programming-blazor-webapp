@@ -27,3 +27,10 @@ In **VS Code**  you will need three extensions, install:
 
 1. **C# Dev Kit** for .NET Development
 2. **Blazor Snippet Pack** A snippet pack for blazor
+
+
+At the end of the tutorial in **VS Code** in Extensions tab make sure you have these extensions installed.
+
+![Extensions VS Code](images/ExtensionsVSCode.png)
+
+> By doing everything perfectly and verifying that you have installed the extensions you can continue to the next material. [Day 2 Creating a basic blazor Project](/Week_1/Day_2.md)
