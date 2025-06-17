@@ -17,7 +17,7 @@ code .
 ```
 By running these commands you should verify that you see the project structure. Don't worry if you don't understand it.
 
-![Project Structure](https://code.visualstudio.com/download)
+![Project Structure](https://github.com/d4shm1r/programming-blazor-webapp/blob/75b533e5f0672b3b7c4313632c4fb3b1f336fb70/images/ProjectStructure.png)
 
 ## Run Project
 
@@ -27,11 +27,12 @@ In *terminal* to test and run the project run the following command:
 dotnet run
 ```
 This will build and give you the *localhost* link like this:
-![localhost link](https://code.visualstudio.com/download)
+
+![localhost link](https://github.com/d4shm1r/programming-blazor-webapp/blob/75b533e5f0672b3b7c4313632c4fb3b1f336fb70/images/localhostLink.png)
 
 
 Open the link in browser and verify you have a working web application project like this:
-![Default Blazor WebApp](https://code.visualstudio.com/download)
+![Default Blazor WebApp](https://github.com/d4shm1r/programming-blazor-webapp/blob/75b533e5f0672b3b7c4313632c4fb3b1f336fb70/images/DefaultBlazor.png)
 
 
 
