@@ -36,4 +36,4 @@ Open the link in browser and verify you have a working web application project l
 
 
 
-> By doing everything perfectly and verifying that you have a working web application we can continue to the next material [Day 3 Understanding Blazor basics](https://github.com/d4shm1r/programming-blazor-webapp/blob/main/Week%201/Day%202%20Creating%20a%20basic%20blazor%20Project.md)
+> By doing everything perfectly and verifying that you have a working web application we can continue to the next material [Day 3 Understanding Blazor basics](https://github.com/d4shm1r/programming-blazor-webapp/blob/main/Week%201/Day%203%20Understanding%20Blazor%20basics.md)
