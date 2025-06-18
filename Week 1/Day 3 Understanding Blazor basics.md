@@ -1,6 +1,7 @@
 ## Basic Project Structure
 
 Whenever you create a new project you will see this template structure in **VS Code**:
+
 ![Project Structure](https://github.com/d4shm1r/programming-blazor-webapp/blob/198a1289fc21f4b14ed407d01af59bd45115a437/images/ProjectExpansion.png)
 
 
