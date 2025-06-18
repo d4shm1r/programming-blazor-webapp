@@ -1,7 +1,7 @@
 ## Basic Project Structure
 
 Whenever you create a new project you will see this template structure in **VS Code**:
-![Project Structure]()
+![Project Structure](https://github.com/d4shm1r/programming-blazor-webapp/blob/198a1289fc21f4b14ed407d01af59bd45115a437/images/ProjectExpansion.png)
 
 
 ## What's Important
@@ -18,4 +18,4 @@ Whenever you create a new project you will see this template structure in **VS C
 - wwwroot/ – It’s your “public” folder. Drop in images, JavaScript, CSS, etc.
 
 
-> Verify that you have these files in your project and then we can continue to the next material [Day 4 Create simple component](https://github.com/d4shm1r/programming-blazor-webapp/blob/main/Week%201/Day%202%20Creating%20a%20basic%20blazor%20Project.md)
+> Verify that you have these files in your project and then we can continue to the next material [Day 4 Create simple component](https://github.com/d4shm1r/programming-blazor-webapp/blob/main/Week%201/Day%204%20Create%20simple%20component.md)
