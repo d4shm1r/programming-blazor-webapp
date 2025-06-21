@@ -13,4 +13,4 @@ In your project in **Components** > **Pages** folder open the **Home.razor** fil
 ![New Component](https://github.com/d4shm1r/programming-blazor-webapp/blob/c641ad404a0f1dc923e44972dabcb729cb01843f/images/component.png)
 
 
-> Run the project and verify that hello world is in web app and then we can continue to the next material [Day 4 Create simple component](https://github.com/d4shm1r/programming-blazor-webapp/blob/main/Week%201/Day%202%20Creating%20a%20basic%20blazor%20Project.md)
+> Run the project and verify that hello world is in web app and then we can continue to the next material [Day 5 Explore basic interactivity](https://github.com/d4shm1r/programming-blazor-webapp/blob/main/Week%201/Day%205%20Exploring%20basic%20interactivity.md)
