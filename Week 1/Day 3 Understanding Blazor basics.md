@@ -14,9 +14,6 @@ Whenever you create a new project you will see this template structure in **VS C
 
 - Pages/ – The meat of your app: each .razor file is a mini web page/component.
 
-- Shared/ – If you’re reusing UI elements (like navbars or headers), they go here.
+- Layout/ – If you’re reusing UI elements (like navbars or headers), they go here.
 
 - wwwroot/ – It’s your “public” folder. Drop in images, JavaScript, CSS, etc.
-
-
-> Verify that you have these files in your project and then we can continue to the next material [Day 4 Create simple component](https://github.com/d4shm1r/programming-blazor-webapp/blob/main/Week%201/Day%204%20Create%20simple%20component.md)
