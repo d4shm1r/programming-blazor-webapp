@@ -33,7 +33,3 @@ This will build and give you the *localhost* link like this:
 
 Open the link in browser and verify you have a working web application project like this:
 ![Default Blazor WebApp](https://github.com/d4shm1r/programming-blazor-webapp/blob/75b533e5f0672b3b7c4313632c4fb3b1f336fb70/images/DefaultBlazor.png)
-
-
-
-> By doing everything perfectly and verifying that you have a working web application we can continue to the next material [Day 3 Understanding Blazor basics](https://github.com/d4shm1r/programming-blazor-webapp/blob/main/Week%201/Day%203%20Understanding%20Blazor%20basics.md)
